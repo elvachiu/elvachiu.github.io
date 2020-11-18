@@ -27,6 +27,14 @@ url: "https://github.com/elvachiu" # the base hostname & protocol for your site,
 twitter_username: elva_chiu
 github_username:  elvachiu
 
+# add in things that are not defaulted
+author: Elva Chiu
+facebook_username: elva.chiu.50
+
+# add in things that were not included in the minima theme
+copyright: "EC"
+title-logo: /images/logo.jpg
+
 # Build settings
 # Removed minima theme as it is now a regular theme
 # theme: minima
